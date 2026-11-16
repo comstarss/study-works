@@ -1,0 +1,11 @@
+# временные и служебные файлы
+*.tmp
+Thumbs.db
+.DS_Store
+*.bak
+*.swp
+*~
+.idea/
+.vscode/
+__pycache__/
+*.pyc
